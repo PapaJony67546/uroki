@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body {
+    background: grey;
+}
+.podskazka {
+    font-size: 20px;
+    border: 2px solid tomato;
+    background-color: tomato;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.bio {
+    font-size: 20px;
+    border: 2px solid palevioletred;
+    background-color: palevioletred;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.him {
+    font-size: 20px;
+    border: 2px solid tan;
+    background-color: tan;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.fiz {
+    font-size: 20px;
+    border: 2px solid teal;
+    background-color: teal;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.geo {
+    font-size: 20px;
+    border: 2px solid Chocolate;
+    background-color: Chocolate;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.obc {
+    font-size: 20px;
+    border: 2px solid yellowgreen;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.ang1 {
+    font-size: 20px;
+    border: 2px solid FireBrick;
+    background-color: FireBrick;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.ang2 {
+    font-size: 20px;
+    border: 2px solid OrangeRed;
+    background-color: OrangeRed;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.rus {
+    font-size: 20px;
+    border: 2px solid DarkGoldenRod;
+    background-color: DarkGoldenRod;
+    color: white;
+    border-radius: 18px;
+    font-family: Roboto, sans-serif;
+    font-weight: 1000;
+    word-spacing: 2px;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+}
